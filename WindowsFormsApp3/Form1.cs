@@ -20,7 +20,7 @@ namespace WindowsFormsApp3
 
         public void reshenie(double m, double p, double r)
         {
-            label5.Text = "";
+            label5.Text = "";//
             double otvet;
             otvet = Math.Round((m / p) / (Math.PI * (r * r)),3);
             string otv = Convert.ToString(otvet);

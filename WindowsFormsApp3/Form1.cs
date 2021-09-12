@@ -27,7 +27,7 @@ namespace WindowsFormsApp3
             otvetlabel.Text = otv;
             massatextbox.Text = "";
             plotnosttextbox.Text = "";
-            radiustextbox.Text = "";
+            radiustextbox.Text = "";//
 
 
         }
